@@ -1,2 +1,16 @@
-# mern-fullstack-internship
-Full Stack Web Development Internship Project
+# Full Stack Employee Management System
+
+This is a Full Stack Web Application developed using MERN stack:
+
+- **MongoDB**: Database
+- **Express.js**: Backend framework
+- **React.js**: Frontend framework
+- **Node.js**: Server runtime
+
+## Features
+- Add, update, delete employees
+- View employee list
+- Admin dashboard
+
+## Run Locally
+1. Backend:
